@@ -1,0 +1,3 @@
+José,3624000707,franklin 24,34     
+Rodolfo, 3624000555, Marconi 650, 23
+Juan, 3625014056, cubells 125, 24
